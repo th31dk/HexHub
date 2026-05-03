@@ -140,3 +140,37 @@ For the nuts, I just cut out a hole at the bottom so that they could fit in.
 ![image](/assets/assembly_4.png)
 
 Well, that's all I really did today, I wanna try and finish the project tomorrow and maybe submit over the weekday. 
+
+## May 3rd, 2026 - Sunday
+Today, I want to finish modeling the case and test fit everything.
+
+I got started by modeling the slats on the bottom case
+![image](/assets/bottomCase_3.png)
+
+I then moved on to modeling the middle case, and it was pretty easy since it was basically the same thing as the bottom. 
+![image](/assets/middleCase_1.png)
+
+I put everything together in the assembly and it looks amazing!
+
+![image](/assets/assembly_5.png)
+
+I want to print out the bottom and top case to see if everything fits. To prevent the need for supports for the nut hole, I will pause the print at the layer before they cover it and place a nut in each of the holes. 
+
+The first iteration didn't work, I think the nut holes were too small. I increased each hexagon size to 6mm.
+
+okay, I printed it out and it fit together pretty well. the middle and bottom part took a bit of effort to put together, but that's good. I was planning on using super glue to keep the parts together but I don't think I'll need it anymore. 
+
+Now, I want to finish up the BOM and organize the repository. 
+
+For the BOM, I needed to find the cost of the PCB so I went ahead and got a quote. 
+
+![image](/assets/PCBQuote_1.png)
+
+38 DOLLARS. I'm going broke from this project. Well, I'm going to finish the BOM and see the true damage to my wallet. 
+
+Welp, it came out to a cost of 52.17. Honestly the PCB doesn't even cost that much, it's the shipping. But maybe I'm just used to the free shipping from Amazon. 
+
+I added a backdrop in SolidWorks and a bit of lighting and took this picture for the zine and readme.
+
+![image](/assets/HexHub.PNG)
+
