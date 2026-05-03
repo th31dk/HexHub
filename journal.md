@@ -87,3 +87,56 @@ Next, I want to model the USB C holes in the case, but I wanted to import the PC
 ![image](/assets/objmesh_1.png)
 
 I passed it through like 10 different softwares and I could still not convert it into a solid body. I think I'll just try to figure it out tomorrow.
+
+## May 2nd, 2026 - Saturday
+ALright, let's start converting the mesh to a solid body file. I saw that fusion 360 could convert meshes to solid bodies pretty well, so I wanted to try that first. 
+
+Unfortunately, Fusion360 did not work, even after 30+ minutes of trying to convert. It degraded the model a lot when I tried to simplify the mesh. 
+
+Then, I moved onto FreeCAD. FreeCAD seemed better, but the mesh was too complicated. I saw that people would simplify it in MeshLab before importing into FreeCAD, but MeshLab just ruined the quality more than Fusion360 did. 
+
+As a last ditch effort, I tried to export out of EasyEDA again, but it didn't work. I contacted customer support. While I was waiting, I wondered if I could import from their desktop client. I think their desktop client runs more client sided than their web version, so I was hoping that it would automatically download their models onto my PC or something. 
+
+Drumroll please!
+
+IT WORKED! I imported it into SolidWorks, and it looked amazing!
+
+Next, I want to finish the bottom case of the hub. I made the walls of it 2mm because I wanted it to be sturdy, but still thin. After sketching, I extruded it to approximately where it would be. 
+
+![image](/assets/bottomCase_1.png)
+
+I then imported the new PCB model. I thought it looked pretty good, so I extruded the walls. However, I quickly realized I need to cut holes for the USB ports and the cable.
+
+![image](/assets/assembly_1.png)
+
+I also realized that I need to split the case in half, otherwise, I won't be able to put the PCB inside. 
+
+![image](/assets/bottomCase_2.png)
+
+Unfortunately, the USB port wasn't fully aligned with this hole, so I had to go back and re edit the PCB.
+
+When I was placing the components, I eyeballed the center of each side and just put the USB port there. However, I was very wrong. I originally wanted to use trigonometry to find the exact coordinates. This ended up taking too much time and my brain power so I went back to eyeballing it. I would find the midpoint of a line and move the USB to there. Then, I would rebuild the copper pour and it would leave an imprint of where the feet were. Then I would slowly tune the coordinates of the port so that it would be as close to the edge as possible and still match up with the angle of the imprints. Once I found those coordinates, I would just mirror those coordinates to all 4 of the unaligned USB ports. 
+
+Now, since I moved the ports, I have to reroute basically everything, so I spent a solid hour rerouting until...
+
+![image](/assets/PCB_5.png)
+
+Okay, we're done with the PCB, hopefully forever. Let's keep designing the case. 
+
+![image](/assets/assembly_2.png)
+
+It fits! I went ahead and modeled the rest of the holes. 
+
+Now, before I model the top part, I wanted to model the acrylic top. At first, I thought I had to do a special drawing thing for it, but I just need to sketch it out and export as a DXF. I extruded it to 1/8th inch like the acrylic I was gonna use for it.
+
+![image](/assets/topCase_1.png)
+
+Then, I modeled the standoffs, screws, and nuts for the case. The smallest standoff I could find was a M3*6+6 standoff, so I decided to use that. This means my case needs to be around 6mm thick at the bottom. 
+
+![image](/assets/assembly_3.png)
+
+For the nuts, I just cut out a hole at the bottom so that they could fit in. 
+
+![image](/assets/assembly_4.png)
+
+Well, that's all I really did today, I wanna try and finish the project tomorrow and maybe submit over the weekday. 
