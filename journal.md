@@ -174,3 +174,4 @@ I added a backdrop in SolidWorks and a bit of lighting and took this picture for
 
 ![image](/assets/HexHub.PNG)
 
+Well, I finished up the README and got the repository organized. The last thing I need to do is create the zine which I'll do tomorrow. 
