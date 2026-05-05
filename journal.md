@@ -188,3 +188,5 @@ I think this one looks good, but I might change a few of the colors.
 Alright here's the zine!
 
 ![image](/assets/Zine.png)
+
+Alright, I believe I'm done with the project now. Let's do a double check and submit!
