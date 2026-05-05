@@ -175,3 +175,16 @@ I added a backdrop in SolidWorks and a bit of lighting and took this picture for
 ![image](/assets/HexHub.PNG)
 
 Well, I finished up the README and got the repository organized. The last thing I need to do is create the zine which I'll do tomorrow. 
+
+## May 4th, 2026 - Monday
+Alright, let's get started on the zine.
+
+First, I want to choose a color palette. 
+
+![image](/assets/colorpalette.avif)
+
+I think this one looks good, but I might change a few of the colors. 
+
+Alright here's the zine!
+
+![image](/assets/Zine.png)

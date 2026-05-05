@@ -1,11 +1,8 @@
 <h1 align="center">
     HexHub
 </h1>
-<h4 align="center">
-    A hexagonal USB-C hub
-</h4>
 
-![image](/assets/HexHub.PNG)
+![image](/assets//Zine.png)
 
 <h2 align="center">
 About This Project
@@ -16,7 +13,10 @@ I created this project due to a need of more USB-C ports on my computer. However
 PCB
 </h2>
 
-![image](/assets/HexHubPCB.png)
+
+|Schematic                             |PCB                                |3D Model                       |
+|--------------------------------------|-----------------------------------|-------------------------------|
+|![image](/assets/HexHubPCB_Schematic.png)|![image](/assets/HexHubPCB_PCB.png)|![image](/assets/HexHubPCB_3DModel.png)|
 
 <h2 align="center">
 BOM
@@ -32,15 +32,17 @@ BOM
 
 <h2 align="center">
 Assembly
+<br>
+<img src="/assets/HexHubExplodedView.png">
 </h2>
 
-![image](/assets/HexHubExplodedView.png)
 
 1. Place your PCB inside the bottom case
 2. Screw the standoffs through the holes in the PCB and case and into the nuts below
 3. Press the middle case into the bottom case
 4. Place the acrylic on top of the middle case and screw it in with the bolts. 
 
+<img src="/assets/HexHub.PNG">
 <h2 align="center">
 Credits
 </h2>
