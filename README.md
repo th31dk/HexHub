@@ -22,6 +22,7 @@ PCB
 BOM
 </h2>
 
+### [Build BOM](/BOM.csv)
 |Part Number|Part Name      |Quantity|Sourcing Link                                       |Cost  |Notes|
 |-----------|---------------|--------|----------------------------------------------------|------|-----|
 |1          |PCB            |1       |https://jlcpcb.com                                  |$37.82|     |
@@ -29,6 +30,8 @@ BOM
 |3          |M3x8mm BHCS    |6       |https://www.aliexpress.us/item/3256804345288240.html|$1.48 |     |
 |4          |M3x6+6 Standoff|6       |https://www.aliexpress.us/item/3256805275813321.html|$3.03 |     |
 |5          |Acrylic Sheet  |1       |https://a.co/d/0dpcT7Jb                             |$8.66 |     |
+
+### [PCBA BOM](/PCB/PCBA%20BOM.csv)
 
 <h2 align="center">
 Assembly

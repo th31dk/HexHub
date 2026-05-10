@@ -190,3 +190,12 @@ Alright here's the zine!
 ![image](/assets/Zine.png)
 
 Alright, I believe I'm done with the project now. Let's do a double check and submit!
+
+## May 9th, 2026
+Hey guys! Apparently I missed adding the BOM for the PCBA parts in the repository, so I'll add it today!
+
+I just exported it as an xls file and imported it into google docs. I then added some extra columns like part number and cost. 
+
+![image](/assets/PCBABOM_1.png)
+
+I also remembered to add the STEP file of the assembly instead of just having the SLDASM file. 
