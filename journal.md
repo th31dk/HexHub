@@ -191,11 +191,14 @@ Alright here's the zine!
 
 Alright, I believe I'm done with the project now. Let's do a double check and submit!
 
-## May 9th, 2026
+## May 9th, 2026 - Saturday
 Hey guys! Apparently I missed adding the BOM for the PCBA parts in the repository, so I'll add it today!
 
-I just exported it as an xls file and imported it into google docs. I then added some extra columns like part number and cost. 
+I just exported it as an Excel file and imported it into Google Sheets. I then added some extra columns like part number and cost. 
 
 ![image](/assets/PCBABOM_1.png)
 
 I also remembered to add the STEP file of the assembly instead of just having the SLDASM file. 
+
+## May 14th, 2026 - Thursday
+Here's a few updates on the project! Today, the PCB was shipped out from JLCPCB and is now on it's way to me. 
